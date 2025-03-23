@@ -4,3 +4,4 @@ boto3
 portkey_ai
 open-webui
 voyageai
+lunary
