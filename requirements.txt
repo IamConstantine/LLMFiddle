@@ -5,3 +5,8 @@ portkey_ai
 open-webui
 voyageai
 lunary
+google-genai
+langchain
+chromadb
+langchain_openai
+langchain-chroma
